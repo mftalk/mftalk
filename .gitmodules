@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/mftalk/server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/mftalk/client.git

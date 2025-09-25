@@ -1,2 +1,2 @@
 # mftalk
-main repo
+mftalk, still in development...
